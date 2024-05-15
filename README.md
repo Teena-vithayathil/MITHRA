@@ -2,7 +2,12 @@ MITHRA CAARPOOLING
 **********************
 
 It is a women only carpooling website which also incorporates product delivery. 
-The project is done using Vuejs for frontend, Django for backend and MySQL for database.
+
+PROGRAMMING LANGUAGES
+**********************
+Vue js
+Django
+MySQL
 
 HOW TO RUN
 **********************
