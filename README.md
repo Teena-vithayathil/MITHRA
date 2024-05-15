@@ -1,7 +1,7 @@
-MITHRA CAARPOOLING
+MITHRA CARPOOLING
 **********************
 
-It is a women only carpooling website with ID proof and driving license verification which also incorporates product delivery. 
+It is a women only carpooling website with ID proof and driving license verified users only, which also incorporates product delivery. 
 
 PROGRAMMING LANGUAGES
 **********************
