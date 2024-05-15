@@ -20,3 +20,9 @@ python manage.py runserver
 Frontend:
 npm install
 npm start
+
+CONTRIBUTORS
+**********************
+Frontend: 
+Backend:
+Database:
